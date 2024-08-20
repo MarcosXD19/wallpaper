@@ -1,0 +1,220 @@
+{
+	"approved" : true,
+	"contentrating" : "Everyone",
+	"description" : "[img]https://i.imgur.com/uxp6tFm.gif[/img]\r\nWallpaper by Mirajane-Akuma is edited from the original image\r\n- https://wallhaven.cc/w/q6p6el\r\n- https://www.deviantart.com/marijane-akuma\r\n\r\nWallpaper is customizable\r\n- Audio Responsive\r\n- Displays\r\n- Change color to monochrome and rgb\r\n\r\n- I hope you will enjoy it :D\r\n[img]https://i.imgur.com/fCAyfSc.gif[/img]",
+	"file" : "scene.json",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"alpha" : 
+			{
+				"fraction" : true,
+				"max" : 1,
+				"min" : 0,
+				"order" : 119,
+				"precision" : 2,
+				"step" : 0.10000000000000001,
+				"text" : "Alpha",
+				"type" : "slider",
+				"value" : 1
+			},
+			"audioresponsive" : 
+			{
+				"order" : 100,
+				"text" : "🛠 Audio Responsive 🛠",
+				"type" : "textinput",
+				"value" : ""
+			},
+			"backgroundcolor" : 
+			{
+				"options" : 
+				[
+					{
+						"label" : "RGB",
+						"value" : "2"
+					},
+					{
+						"label" : "Monochrome",
+						"value" : "3"
+					}
+				],
+				"order" : 113,
+				"text" : "Background  Color",
+				"type" : "combo",
+				"value" : "2"
+			},
+			"backgroundmonochrome" : 
+			{
+				"order" : 114,
+				"text" : "Background Monochrome",
+				"type" : "color",
+				"value" : "1 1 1"
+			},
+			"baralpha" : 
+			{
+				"fraction" : true,
+				"max" : 1,
+				"min" : 0,
+				"order" : 106,
+				"precision" : 2,
+				"step" : 0.10000000000000001,
+				"text" : "Bar Alpha",
+				"type" : "slider",
+				"value" : 1
+			},
+			"baraudio" : 
+			{
+				"order" : 104,
+				"text" : "Bar Audio",
+				"type" : "bool",
+				"value" : true
+			},
+			"barcolor" : 
+			{
+				"order" : 105,
+				"text" : "Bar Color",
+				"type" : "color",
+				"value" : "1 1 1"
+			},
+			"billcipher" : 
+			{
+				"order" : 109,
+				"text" : "Bill Cipher Color",
+				"type" : "bool",
+				"value" : false
+			},
+			"billciphercolor" : 
+			{
+				"order" : 110,
+				"text" : "Color",
+				"type" : "color",
+				"value" : "0 1 0"
+			},
+			"billcipherrgb" : 
+			{
+				"order" : 108,
+				"text" : "Bill Cipher RGB",
+				"type" : "bool",
+				"value" : true
+			},
+			"circlecolor" : 
+			{
+				"options" : 
+				[
+					{
+						"label" : "RGB",
+						"value" : "1"
+					},
+					{
+						"label" : "Monochrome",
+						"value" : "2"
+					}
+				],
+				"order" : 117,
+				"text" : "Circle Color",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"circlespin" : 
+			{
+				"order" : 115,
+				"text" : "🛠 Circle Spin 🛠",
+				"type" : "bool",
+				"value" : true
+			},
+			"circlespincolor" : 
+			{
+				"order" : 118,
+				"text" : "Circle Spin Color",
+				"type" : "color",
+				"value" : "0.3686274509803922 1 0"
+			},
+			"colorcustom" : 
+			{
+				"order" : 107,
+				"text" : "🛠 Displays 🛠",
+				"type" : "textinput",
+				"value" : ""
+			},
+			"eyeaudio" : 
+			{
+				"order" : 103,
+				"text" : "Eye Audio",
+				"type" : "bool",
+				"value" : true
+			},
+			"pulsebillcipher" : 
+			{
+				"order" : 102,
+				"text" : "Pulse Bill Cipher",
+				"type" : "bool",
+				"value" : true
+			},
+			"pulsecircle" : 
+			{
+				"order" : 101,
+				"text" : "Pulse Circle",
+				"type" : "bool",
+				"value" : true
+			},
+			"schemecolor" : 
+			{
+				"order" : 101,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.733 0.200 0.671"
+			},
+			"speed" : 
+			{
+				"fraction" : true,
+				"max" : 1,
+				"min" : -1,
+				"order" : 116,
+				"precision" : 2,
+				"step" : 0.10000000000000001,
+				"text" : "Speed",
+				"type" : "slider",
+				"value" : -0.10000000000000001
+			},
+			"starfield" : 
+			{
+				"options" : 
+				[
+					{
+						"label" : "Hide",
+						"value" : "2"
+					},
+					{
+						"label" : "Star field RGB",
+						"value" : "1"
+					},
+					{
+						"label" : "Star field Monochrome",
+						"value" : "3"
+					}
+				],
+				"order" : 111,
+				"text" : "Star Field",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"starfieldmonochrome" : 
+			{
+				"order" : 112,
+				"text" : "Star Field Monochrome",
+				"type" : "color",
+				"value" : "1 1 1"
+			}
+		},
+		"supportsaudioprocessing" : true
+	},
+	"preview" : "preview.gif",
+	"tags" : [ "Cartoon" ],
+	"title" : "Gravity Falls - Bill Cipher",
+	"type" : "scene",
+	"version" : 5,
+	"visibility" : "public",
+	"workshopid" : "2257277830",
+	"workshopurl" : "steam://url/CommunityFilePage/2257277830"
+}
